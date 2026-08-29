@@ -1,0 +1,65 @@
+about:
+  description: The most RAM efficient harness
+  license: MIT
+  homepage: https://jcode.sh
+  head: f35401f
+  archived: false
+  latestVersion: v0.81.2
+  collectedAt: 2026-08-29T07:29:59Z
+timeline:
+  created: 2026-01-05
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-29
+popularity:
+  star: 18762
+  watcher: 94
+  fork: 2130
+  release: 168
+  contributor: 6
+  pullRequest: 93
+  issue: 906
+language:
+  Rust: 24882926
+  Python: 1291290
+  Shell: 356505
+  JavaScript: 207475
+  Swift: 172618
+  TypeScript: 136374
+  PowerShell: 104563
+  CSS: 3347
+  HTML: 1031
+  RenderScript: 1
+totalLine: 27156130
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 31
+    mergedPR: 38
+    openPR: 0
+    closedIssue: 159
+    openIssue: 212
+    commit: 765
+  last90d:
+    since: 2026-05-31
+    release: 93
+    mergedPR: 81
+    openPR: 0
+    closedIssue: 379
+    openIssue: 314
+    commit: 3118
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 85
+    openPR: 0
+    closedIssue: 540
+    openIssue: 359
+    commit: 6058
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 85
+    openPR: 0
+    closedIssue: 547
+    openIssue: 359
+    commit: 7147
