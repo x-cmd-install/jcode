@@ -1,25 +1,27 @@
 about:
-  description: The most RAM efficient harness
+  description:
+  |
+    The most RAM efficient harness
   license: MIT
   homepage: https://jcode.sh
-  head: a170e98
+  head: f46f9c3
   archived: false
-  latestVersion: v0.81.4
-  collectedAt: 2026-09-03T05:15:51Z
+  latestVersion: v0.81.5
+  collectedAt: 2026-09-03T22:34:43Z
 timeline:
   created: 2026-01-05
   lastCommit: 2026-09-03
-  lastRelease: 2026-08-30
+  lastRelease: 2026-09-03
 popularity:
-  star: 19022
+  star: 19062
   watcher: 99
-  fork: 2181
-  release: 170
+  fork: 2183
+  release: 171
   contributor: 6
-  pullRequest: 101
-  issue: 973
+  pullRequest: 93
+  issue: 977
 language:
-  Rust: 24886045
+  Rust: 24906395
   Python: 1291290
   Shell: 356505
   JavaScript: 207475
@@ -29,37 +31,37 @@ language:
   CSS: 3347
   HTML: 1031
   RenderScript: 1
-totalLine: 27159249
+totalBytes: 27179599
 recent:
   last30d:
     since: 2026-08-04
-    release: 23
-    mergedPR: 21
-    openPR: 8
-    closedIssue: 119
-    openIssue: 227
-    commit: 397
+    release: 24
+    mergedPR: 29
+    openPR: 0
+    closedIssue: 133
+    openIssue: 217
+    commit: 414
   last90d:
     since: 2026-06-05
-    release: 84
-    mergedPR: 80
-    openPR: 8
-    closedIssue: 358
-    openIssue: 375
-    commit: 2771
+    release: 85
+    mergedPR: 88
+    openPR: 0
+    closedIssue: 372
+    openIssue: 365
+    commit: 2788
   last180d:
     since: 2026-03-07
     release: 100
-    mergedPR: 85
-    openPR: 8
-    closedIssue: 542
-    openIssue: 423
-    commit: 5843
+    mergedPR: 93
+    openPR: 0
+    closedIssue: 556
+    openIssue: 413
+    commit: 5860
   last360d:
     since: 2025-09-08
     release: 100
-    mergedPR: 85
-    openPR: 8
-    closedIssue: 550
-    openIssue: 423
-    commit: 7160
+    mergedPR: 93
+    openPR: 0
+    closedIssue: 564
+    openIssue: 413
+    commit: 7177
