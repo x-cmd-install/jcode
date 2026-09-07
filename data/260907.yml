@@ -1,0 +1,213 @@
+about:
+  description: "The most RAM efficient harness"
+  license: MIT
+  homepage: https://jcode.sh
+  head: 33d0f78
+  archived: false
+  latestVersion: "v0.84.0"
+  collectedAt: 2026-09-07T05:42:02Z
+timeline:
+  created: 2026-01-05
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
+popularity:
+  star: 19249
+  watcher: 102
+  fork: 2217
+  release: 176
+  contributor: 6
+  pullRequest: 188
+  issue: 994
+language:
+  Rust: 25528000
+  Python: 1425912
+  Shell: 356505
+  JavaScript: 239073
+  Swift: 172618
+  TypeScript: 137623
+  PowerShell: 104563
+  CSS: 3347
+  HTML: 1031
+  RenderScript: 1
+totalBytes: 27968673
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 28
+    mergedPR: 28
+    openPR: 0
+    closedIssue: 126
+    openIssue: 179
+    commit: 386
+  last60d:
+    since: 2026-07-09
+    release: 66
+    mergedPR: 87
+    openPR: 0
+    closedIssue: 300
+    openIssue: 336
+    commit: 1748
+  last90d:
+    since: 2026-06-09
+    release: 87
+    mergedPR: 89
+    openPR: 0
+    closedIssue: 390
+    openIssue: 351
+    commit: 2646
+  last180d:
+    since: 2026-03-11
+    release: 100
+    mergedPR: 95
+    openPR: 0
+    closedIssue: 583
+    openIssue: 401
+    commit: 5821
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 95
+    openPR: 0
+    closedIssue: 593
+    openIssue: 401
+    commit: 7299
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 95
+    openPR: 0
+    closedIssue: 593
+    openIssue: 401
+    commit: 7421
+total:
+  release: 176
+  mergedPR: 95
+  openPR: 0
+  closedIssue: 593
+  openIssue: 401
+  commit: 7421
+---
+path: /home/runner/.x-repo/github.com/1jehuang/jcode
+collectedAt: 2026-09-07T05:42:29Z
+loc:
+  Rust:
+    code: 585536
+    comments: 21408
+    blanks: 54474
+    files: 1197
+  Python:
+    code: 30836
+    comments: 1427
+    blanks: 4537
+    files: 134
+  Json:
+    code: 16635
+    comments: 0
+    blanks: 0
+    files: 110
+  Sh:
+    code: 8209
+    comments: 1165
+    blanks: 1134
+    files: 67
+  JavaScript:
+    code: 5275
+    comments: 461
+    blanks: 485
+    files: 16
+  Swift:
+    code: 4065
+    comments: 268
+    blanks: 459
+    files: 26
+  TypeScript:
+    code: 3014
+    comments: 597
+    blanks: 309
+    files: 16
+  Sql:
+    code: 2037
+    comments: 409
+    blanks: 99
+    files: 39
+  PowerShell:
+    code: 2016
+    comments: 93
+    blanks: 286
+    files: 6
+  Toml:
+    code: 1899
+    comments: 350
+    blanks: 292
+    files: 85
+  Html:
+    code: 510
+    comments: 8
+    blanks: 343
+    files: 3
+  Css:
+    code: 142
+    comments: 0
+    blanks: 17
+    files: 1
+  Svg:
+    code: 57
+    comments: 0
+    blanks: 0
+    files: 2
+  Yaml:
+    code: 34
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 16834
+    blanks: 5350
+    files: 110
+  Text:
+    code: 0
+    comments: 5205
+    blanks: 7
+    files: 5
+total:
+  code: 662115
+  comments: 75218
+  blanks: 70046
+  files: 1818
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:42:33+00:00
+  platform:
+    darwin/arm64:
+      name:  jcode-macos-aarch64.tar.gz
+      url:   https://github.com/1jehuang/jcode/releases/download/v0.84.0/jcode-macos-aarch64.tar.gz
+      size:  51228483
+      score: 43
+    darwin/amd64:
+      name:  jcode-macos-x86_64.tar.gz
+      url:   https://github.com/1jehuang/jcode/releases/download/v0.84.0/jcode-macos-x86_64.tar.gz
+      size:  54071773
+      score: 43
+    linux/arm64:
+      name:  jcode-linux-aarch64.tar.gz
+      url:   https://github.com/1jehuang/jcode/releases/download/v0.84.0/jcode-linux-aarch64.tar.gz
+      size:  50028339
+      score: 43
+    linux/amd64:
+      name:  jcode-linux-x86_64.tar.gz
+      url:   https://github.com/1jehuang/jcode/releases/download/v0.84.0/jcode-linux-x86_64.tar.gz
+      size:  48783970
+      score: 45
+    win/arm64:
+      name:  jcode-windows-aarch64.tar.gz
+      url:   https://github.com/1jehuang/jcode/releases/download/v0.84.0/jcode-windows-aarch64.tar.gz
+      size:  29716370
+      score: 45
+    win/amd64:
+      name:  jcode-windows-x86_64.tar.gz
+      url:   https://github.com/1jehuang/jcode/releases/download/v0.84.0/jcode-windows-x86_64.tar.gz
+      size:  41868451
+      score: 45
