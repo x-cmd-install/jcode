@@ -7,7 +7,7 @@ The most RAM efficient harness
 - **Latest release**: `v0.84.0` (2026-09-07)
 - **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 19365 · **Forks**: 2226 · **Open issues**: 1004 · **Contributors**: 6
+- **Stars**: 19399 · **Forks**: 2227 · **Open issues**: 1007 · **Contributors**: 6
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/jcode> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:41:55Z._
+_Last regenerated: 2026-09-09T20:05:03Z._
