@@ -1,0 +1,184 @@
+about:
+  description: "The most RAM efficient harness"
+  license: MIT
+  homepage: https://jcode.sh
+  head: e65e47c
+  archived: false
+  latestVersion: "v0.84.0"
+  latestRelease: "v0.84.0"
+  latestPrerelease: "tb21-confstep-943eae93"
+  collectedAt: 2026-09-09T05:41:18Z
+timeline:
+  created: 2026-01-05
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-07
+  lastRelease: 2026-09-07
+  lastPrerelease: 2026-07-06
+popularity:
+  star: 19365
+  watcher: 103
+  fork: 2226
+  release: 176
+  contributor: 6
+  pullRequest: 189
+  issue: 1004
+language:
+  Rust: 25555733
+  Python: 1425912
+  Shell: 356505
+  JavaScript: 239073
+  Swift: 172618
+  TypeScript: 137623
+  PowerShell: 104563
+  CSS: 3347
+  HTML: 1031
+  RenderScript: 1
+totalBytes: 27996406
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 25
+    mergedPR: 22
+    openPR: 1
+    closedIssue: 115
+    openIssue: 177
+    commit: 391
+  last60d:
+    since: 2026-07-11
+    release: 62
+    mergedPR: 87
+    openPR: 1
+    closedIssue: 290
+    openIssue: 342
+    commit: 1753
+  last90d:
+    since: 2026-06-11
+    release: 85
+    mergedPR: 89
+    openPR: 1
+    closedIssue: 387
+    openIssue: 358
+    commit: 2651
+  last180d:
+    since: 2026-03-13
+    release: 100
+    mergedPR: 95
+    openPR: 1
+    closedIssue: 584
+    openIssue: 410
+    commit: 5826
+  last360d:
+    since: 2025-09-14
+    release: 100
+    mergedPR: 95
+    openPR: 1
+    closedIssue: 594
+    openIssue: 410
+    commit: 7304
+  last720d:
+    since: 2024-09-19
+    release: 100
+    mergedPR: 95
+    openPR: 1
+    closedIssue: 594
+    openIssue: 410
+    commit: 7426
+total:
+  release: 176
+  mergedPR: 95
+  openPR: 1
+  closedIssue: 594
+  openIssue: 410
+  commit: 7426
+---
+path: /home/runner/.x-repo/github.com/1jehuang/jcode
+collectedAt: 2026-09-09T05:41:45Z
+loc:
+  Rust:
+    code: 586244
+    comments: 21421
+    blanks: 54516
+    files: 1198
+  Python:
+    code: 30836
+    comments: 1427
+    blanks: 4537
+    files: 134
+  Json:
+    code: 16635
+    comments: 0
+    blanks: 0
+    files: 110
+  Sh:
+    code: 8209
+    comments: 1165
+    blanks: 1134
+    files: 67
+  JavaScript:
+    code: 5275
+    comments: 461
+    blanks: 485
+    files: 16
+  Swift:
+    code: 4065
+    comments: 268
+    blanks: 459
+    files: 26
+  TypeScript:
+    code: 3014
+    comments: 597
+    blanks: 309
+    files: 16
+  Sql:
+    code: 2037
+    comments: 409
+    blanks: 99
+    files: 39
+  PowerShell:
+    code: 2016
+    comments: 93
+    blanks: 286
+    files: 6
+  Toml:
+    code: 1899
+    comments: 350
+    blanks: 292
+    files: 85
+  Html:
+    code: 510
+    comments: 8
+    blanks: 343
+    files: 3
+  Css:
+    code: 142
+    comments: 0
+    blanks: 17
+    files: 1
+  Svg:
+    code: 57
+    comments: 0
+    blanks: 0
+    files: 2
+  Yaml:
+    code: 34
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 16866
+    blanks: 5358
+    files: 110
+  Text:
+    code: 0
+    comments: 5205
+    blanks: 7
+    files: 5
+total:
+  code: 662823
+  comments: 75278
+  blanks: 70096
+  files: 1819
+---
+
+---
