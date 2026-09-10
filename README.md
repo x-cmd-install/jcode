@@ -38,22 +38,22 @@ Total: **660,973** lines of code across **1525** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,449 · **Forks**: 2,234 · **Open issues**: 1,022 · **Contributors**: 6
+- **Stars**: 19,453 · **Forks**: 2,235 · **Open issues**: 1,023 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 95 · **Open PRs**: 2 · **Closed issues**: 596 · **Open issues**: 426 · **Commits**: 7427
+- **Releases**: 176 · **Merged PRs**: 95 · **Open PRs**: 2 · **Closed issues**: 596 · **Open issues**: 427 · **Commits**: 7427
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 23 | 19 | 2 | 109 | 184 | 392 |
-| last60d | 2026-07-12 | 60 | 87 | 2 | 292 | 357 | 1754 |
-| 90d | 2026-06-12 | 84 | 89 | 2 | 375 | 372 | 2652 |
-| last180d | 2026-03-14 | 100 | 95 | 2 | 586 | 426 | 5827 |
-| 360d | 2025-09-15 | 100 | 95 | 2 | 596 | 426 | 7305 |
-| last720d | 2024-09-20 | 100 | 95 | 2 | 596 | 426 | 7427 |
+| 30d | 2026-08-11 | 23 | 19 | 2 | 109 | 185 | 392 |
+| last60d | 2026-07-12 | 60 | 87 | 2 | 292 | 358 | 1754 |
+| 90d | 2026-06-12 | 84 | 89 | 2 | 375 | 373 | 2652 |
+| last180d | 2026-03-14 | 100 | 95 | 2 | 586 | 427 | 5827 |
+| 360d | 2025-09-15 | 100 | 95 | 2 | 596 | 427 | 7305 |
+| last720d | 2024-09-20 | 100 | 95 | 2 | 596 | 427 | 7427 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for jcode lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:42:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:08:17Z._
