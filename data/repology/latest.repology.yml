@@ -1,0 +1,40 @@
+- repo: aur
+  srcname: jcode
+  binname: jcode
+  visiblename: jcode
+  version: 0.81.6
+  origversion: 0.81.6-1
+  status: outdated
+  summary: The most RAM efficient harness
+  maintainers:
+    - drgrove@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: jcode-bin
+  binname: jcode-bin
+  visiblename: jcode-bin
+  version: 0.84.0
+  origversion: 0.84.0-1
+  status: newest
+  summary: AI coding agent powered by Claude and ChatGPT
+  maintainers:
+    - 1jehuang@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: jcode
+  visiblename: jcode
+  version: 0.84.0
+  origversion: null
+  status: newest
+  summary: AI coding agent harness for the terminal
+- repo: scoop
+  subrepo: main
+  binname: jcode
+  visiblename: jcode
+  version: 0.84.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
