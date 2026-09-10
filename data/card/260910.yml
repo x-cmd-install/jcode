@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.84.0"
   latestRelease: "v0.84.0"
   latestPrerelease: "tb21-confstep-943eae93"
-  collectedAt: 2026-09-10T20:40:54Z
+  collectedAt: 2026-09-10T23:07:24Z
 timeline:
   created: 2026-01-05
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 2026-07-06
 popularity:
-  star: 19449
+  star: 19453
   watcher: 107
-  fork: 2234
+  fork: 2235
   release: 176
   contributor: 6
   pullRequest: 190
-  issue: 1022
+  issue: 1023
 language:
   Rust: 25555733
   Python: 1425912
@@ -41,7 +41,7 @@ recent:
     mergedPR: 19
     openPR: 2
     closedIssue: 109
-    openIssue: 184
+    openIssue: 185
     commit: 392
   last60d:
     since: 2026-07-12
@@ -49,7 +49,7 @@ recent:
     mergedPR: 87
     openPR: 2
     closedIssue: 292
-    openIssue: 357
+    openIssue: 358
     commit: 1754
   last90d:
     since: 2026-06-12
@@ -57,7 +57,7 @@ recent:
     mergedPR: 89
     openPR: 2
     closedIssue: 375
-    openIssue: 372
+    openIssue: 373
     commit: 2652
   last180d:
     since: 2026-03-14
@@ -65,7 +65,7 @@ recent:
     mergedPR: 95
     openPR: 2
     closedIssue: 586
-    openIssue: 426
+    openIssue: 427
     commit: 5827
   last360d:
     since: 2025-09-15
@@ -73,7 +73,7 @@ recent:
     mergedPR: 95
     openPR: 2
     closedIssue: 596
-    openIssue: 426
+    openIssue: 427
     commit: 7305
   last720d:
     since: 2024-09-20
@@ -81,18 +81,18 @@ recent:
     mergedPR: 95
     openPR: 2
     closedIssue: 596
-    openIssue: 426
+    openIssue: 427
     commit: 7427
 total:
   release: 176
   mergedPR: 95
   openPR: 2
   closedIssue: 596
-  openIssue: 426
+  openIssue: 427
   commit: 7427
 ---
 path: /home/runner/.x-repo/github.com/1jehuang/jcode
-collectedAt: 2026-09-10T20:41:34Z
+collectedAt: 2026-09-10T23:07:55Z
 loc:
   Rust:
     code: 586244
