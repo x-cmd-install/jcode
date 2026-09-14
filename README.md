@@ -33,27 +33,27 @@ Total: **667,199** lines of code across **1537** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.84.0` (2026-09-07)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 19,577 · **Forks**: 2,264 · **Open issues**: 1,040 · **Contributors**: 7
+- **Stars**: 19,658 · **Forks**: 2,272 · **Open issues**: 1,046 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 96 · **Open PRs**: 3 · **Closed issues**: 597 · **Open issues**: 443 · **Commits**: 7459
+- **Releases**: 176 · **Merged PRs**: 96 · **Open PRs**: 5 · **Closed issues**: 597 · **Open issues**: 449 · **Commits**: 7460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 19 | 17 | 3 | 84 | 180 | 296 |
-| last60d | 2026-07-15 | 56 | 88 | 3 | 288 | 372 | 1496 |
-| 90d | 2026-06-15 | 83 | 90 | 3 | 371 | 387 | 2572 |
-| last180d | 2026-03-17 | 100 | 96 | 3 | 581 | 443 | 5751 |
-| 360d | 2025-09-18 | 100 | 96 | 3 | 597 | 443 | 7335 |
-| last720d | 2024-09-23 | 100 | 96 | 3 | 597 | 443 | 7459 |
+| 30d | 2026-08-15 | 18 | 17 | 5 | 82 | 172 | 297 |
+| last60d | 2026-07-16 | 56 | 87 | 5 | 286 | 376 | 1497 |
+| 90d | 2026-06-16 | 82 | 90 | 5 | 371 | 392 | 2573 |
+| last180d | 2026-03-18 | 100 | 96 | 5 | 579 | 449 | 5752 |
+| 360d | 2025-09-19 | 100 | 96 | 5 | 597 | 449 | 7336 |
+| last720d | 2024-09-24 | 100 | 96 | 5 | 597 | 449 | 7460 |
 
 ## Release assets
 
@@ -70,14 +70,6 @@ Total: **667,199** lines of code across **1537** files in the top 5 languages.
 | [jcode-windows-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.84.0/jcode-windows-x86_64.tar.gz) | 39.9 MiB | `native/win/x64` |
 | [SHA256SUMS](https://github.com/1jehuang/jcode/releases/download/v0.84.0/SHA256SUMS) | 836 B | `other` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/jcode). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.84.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for jcode lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jcode` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +79,4 @@ Install metadata for jcode lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:45:36Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:57:00Z._
