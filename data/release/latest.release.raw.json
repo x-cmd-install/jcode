@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 40058658,
       "digest": "sha256:f062f37fb22a69d15e3287080565757bfc8d14d2b987df0219a10109ff53abce",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-29T19:57:31Z",
       "updated_at": "2026-09-29T19:57:34Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-freebsd-x86_64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 44526628,
       "digest": "sha256:3a9b271a6ceff583f7c024ebbee1adcf547aaab97d72e5a2b0716c3c323c11ef",
-      "download_count": 63,
+      "download_count": 103,
       "created_at": "2026-09-29T19:57:34Z",
       "updated_at": "2026-09-29T19:57:35Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-linux-aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 42279684,
       "digest": "sha256:656f0d4b95210e5b880107b5ae6d93d176884e452030cede71e5e64e051e40c9",
-      "download_count": 343,
+      "download_count": 734,
       "created_at": "2026-09-29T19:57:32Z",
       "updated_at": "2026-09-29T19:57:34Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-linux-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 44990649,
       "digest": "sha256:c83c678a61e0aeed6a45b3a4f762dc18ffc0f62ca4465c12dd6a5253513b5be7",
-      "download_count": 239,
+      "download_count": 550,
       "created_at": "2026-09-29T19:57:27Z",
       "updated_at": "2026-09-29T19:57:32Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-macos-aarch64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 47316180,
       "digest": "sha256:3df561c881aeee73e3b1d4647c227fbcb60dcc91d3efeea669967bcad1199414",
-      "download_count": 12,
+      "download_count": 37,
       "created_at": "2026-09-29T19:57:31Z",
       "updated_at": "2026-09-29T19:57:33Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-macos-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 85219840,
       "digest": "sha256:73671b3b0ed30c883c4bf33bfa821908142ad337405eab7c7c79a78b40596a2f",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-09-29T19:57:27Z",
       "updated_at": "2026-09-29T19:57:33Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-windows-aarch64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 31264616,
       "digest": "sha256:1578b79dabfdf92010221d0cacd0d8b192d244cc602574ae78a033360cc5828f",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-29T19:57:27Z",
       "updated_at": "2026-09-29T19:57:30Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-windows-aarch64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 113149440,
       "digest": "sha256:e73a56ff0538868b8d5da0251a34ad0c9cb0e9cd1c13b9675eba4016ad695bcf",
-      "download_count": 550,
+      "download_count": 1484,
       "created_at": "2026-09-29T19:57:27Z",
       "updated_at": "2026-09-29T19:57:35Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-windows-x86_64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 37121683,
       "digest": "sha256:4ca0e7771ed08cd47a0735aebebef48eb4eb5570e5ba32f9503beba9beeee818",
-      "download_count": 28,
+      "download_count": 57,
       "created_at": "2026-09-29T19:57:27Z",
       "updated_at": "2026-09-29T19:57:30Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/jcode-windows-x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 836,
       "digest": "sha256:54b1541db53975e9e77f570adbcc3d06c36ecd03e2c38bcbf6f14f283ec60e14",
-      "download_count": 809,
+      "download_count": 2059,
       "created_at": "2026-09-29T19:57:37Z",
       "updated_at": "2026-09-29T19:57:37Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.89.3/SHA256SUMS"
@@ -399,5 +399,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/1jehuang/jcode/tarball/v0.89.3",
   "zipball_url": "https://api.github.com/repos/1jehuang/jcode/zipball/v0.89.3",
-  "body": "**Herdr support and /cloud session moves**\n\n### Highlights\n\n- jcode is now a first-class agent in herdr: its name and working/idle state show in the sidebar and herdr agent list, herdr agent wait works on it, and after a herdr restart the pane reopens the same jcode session\n- /cloud and /local move a live session, including uncommitted code, to a cloud host and back\n\n### Improvements\n\n- herdr reports run in the background with a short timeout, so herdr can never slow jcode down, and jcode releases the pane when you quit\n\n### Fixes\n\n- Usage telemetry now counts tokens from responses that fail mid-stream, crashed sessions, compaction, and background agents\n\n**Full changelog**: https://github.com/1jehuang/jcode/compare/v0.89.2...v0.89.3\n\n<!-- jcode-platform-availability:start -->\n## Platform availability\n\n- Linux x86_64: available\n- Linux aarch64: available\n- macOS Apple Silicon: available\n- macOS Intel: available\n- Windows x86_64: available\n- Windows ARM64: available\n- FreeBSD x86_64: available\n<!-- jcode-platform-availability:end -->\n\n<!-- jcode-discord-announced:v0.89.3 -->\n"
+  "body": "**Herdr support and /cloud session moves**\n\n### Highlights\n\n- jcode is now a first-class agent in herdr: its name and working/idle state show in the sidebar and herdr agent list, herdr agent wait works on it, and after a herdr restart the pane reopens the same jcode session\n- /cloud and /local move a live session, including uncommitted code, to a cloud host and back\n\n### Improvements\n\n- herdr reports run in the background with a short timeout, so herdr can never slow jcode down, and jcode releases the pane when you quit\n\n### Fixes\n\n- Usage telemetry now counts tokens from responses that fail mid-stream, crashed sessions, compaction, and background agents\n\n**Full changelog**: https://github.com/1jehuang/jcode/compare/v0.89.2...v0.89.3\n\n<!-- jcode-platform-availability:start -->\n## Platform availability\n\n- Linux x86_64: available\n- Linux aarch64: available\n- macOS Apple Silicon: available\n- macOS Intel: available\n- Windows x86_64: available\n- Windows ARM64: available\n- FreeBSD x86_64: available\n<!-- jcode-platform-availability:end -->\n\n<!-- jcode-discord-announced:v0.89.3 -->\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/1jehuang/jcode/releases/399455728/reactions",
+    "total_count": 3,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 3,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
