@@ -14,15 +14,15 @@ x install jcode
 
 ## Code insight
 
-Total: **756,587** lines of code across **1755** files in the top 5 languages.
+Total: **760,401** lines of code across **1777** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 676,085 | 24,561 | 59,817 | 1388 |
+| Rust | 679,488 | 24,655 | 60,004 | 1407 |
 | Python | 33,054 | 1,473 | 4,755 | 144 |
-| Json | 17,564 | 0 | 0 | 126 |
-| Sh | 8,881 | 1,297 | 1,190 | 76 |
-| JavaScript | 5,942 | 504 | 526 | 21 |
+| Json | 17,603 | 0 | 0 | 127 |
+| Sh | 8,892 | 1,301 | 1,191 | 76 |
+| JavaScript | 6,165 | 544 | 548 | 23 |
 
 ## Source
 
@@ -32,43 +32,43 @@ Total: **756,587** lines of code across **1755** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.94.0` (2026-10-10)
-- **Last commit**: 2026-10-11
+- **Latest**: `v0.95.0` (2026-10-12)
+- **Last commit**: 2026-10-12
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 20,391 · **Forks**: 2,375 · **Open issues**: 1,313 · **Contributors**: 39
+- **Stars**: 20,520 · **Forks**: 2,390 · **Open issues**: 1,325 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 204 · **Open PRs**: 119 · **Closed issues**: 752 · **Open issues**: 561 · **Commits**: 10099
+- **Releases**: 191 · **Merged PRs**: 208 · **Open PRs**: 120 · **Closed issues**: 764 · **Open issues**: 561 · **Commits**: 10122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 14 | 107 | 119 | 135 | 142 | 706 |
-| last60d | 2026-08-12 | 34 | 127 | 119 | 251 | 318 | 1708 |
-| 90d | 2026-07-13 | 73 | 196 | 119 | 442 | 492 | 4297 |
-| last180d | 2026-04-14 | 100 | 204 | 119 | 715 | 549 | 7649 |
-| 360d | 2025-10-16 | 100 | 204 | 119 | 752 | 561 | 11751 |
-| last720d | 2024-10-21 | 100 | 204 | 119 | 752 | 561 | 10099 |
+| 30d | 2026-09-12 | 15 | 111 | 120 | 142 | 145 | 730 |
+| last60d | 2026-08-13 | 34 | 131 | 120 | 254 | 310 | 1732 |
+| 90d | 2026-07-14 | 72 | 200 | 120 | 453 | 492 | 4321 |
+| last180d | 2026-04-15 | 100 | 208 | 120 | 727 | 549 | 7673 |
+| 360d | 2025-10-17 | 100 | 208 | 120 | 764 | 561 | 11775 |
+| last720d | 2024-10-22 | 100 | 208 | 120 | 764 | 561 | 10122 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [jcode-freebsd-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-freebsd-x86_64.tar.gz) | 39.2 MiB | `native/linux/x64` |
-| [jcode-linux-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-linux-aarch64.tar.gz) | 44.0 MiB | `native/linux/arm64` |
-| [jcode-linux-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-linux-x86_64.tar.gz) | 41.8 MiB | `native/linux/x64` |
-| [jcode-macos-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-macos-aarch64.tar.gz) | 44.0 MiB | `native/darwin/arm64` |
-| [jcode-macos-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-macos-x86_64.tar.gz) | 46.4 MiB | `native/darwin/x64` |
-| [jcode-windows-aarch64.exe](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-windows-aarch64.exe) | 84.2 MiB | `native/win/arm64` |
-| [jcode-windows-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-windows-aarch64.tar.gz) | 31.0 MiB | `native/win/arm64` |
-| [jcode-windows-x86_64.exe](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-windows-x86_64.exe) | 111.5 MiB | `native/win/x64` |
-| [jcode-windows-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.94.0/jcode-windows-x86_64.tar.gz) | 36.7 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/1jehuang/jcode/releases/download/v0.94.0/SHA256SUMS) | 836 B | `other` |
+| [jcode-freebsd-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-freebsd-x86_64.tar.gz) | 39.6 MiB | `native/linux/x64` |
+| [jcode-linux-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-linux-aarch64.tar.gz) | 45.1 MiB | `native/linux/arm64` |
+| [jcode-linux-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-linux-x86_64.tar.gz) | 42.1 MiB | `native/linux/x64` |
+| [jcode-macos-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-macos-aarch64.tar.gz) | 43.8 MiB | `native/darwin/arm64` |
+| [jcode-macos-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-macos-x86_64.tar.gz) | 47.9 MiB | `native/darwin/x64` |
+| [jcode-windows-aarch64.exe](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-windows-aarch64.exe) | 85.2 MiB | `native/win/arm64` |
+| [jcode-windows-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-windows-aarch64.tar.gz) | 31.3 MiB | `native/win/arm64` |
+| [jcode-windows-x86_64.exe](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-windows-x86_64.exe) | 112.8 MiB | `native/win/x64` |
+| [jcode-windows-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-windows-x86_64.tar.gz) | 37.1 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/1jehuang/jcode/releases/download/v0.95.0/SHA256SUMS) | 836 B | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for jcode lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:25:36Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:48:27Z._
