@@ -33,27 +33,27 @@ Total: **760,401** lines of code across **1777** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.95.0` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 20,520 · **Forks**: 2,390 · **Open issues**: 1,325 · **Contributors**: 40
+- **Stars**: 20,629 · **Forks**: 2,400 · **Open issues**: 1,330 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 208 · **Open PRs**: 120 · **Closed issues**: 764 · **Open issues**: 561 · **Commits**: 10122
+- **Releases**: 191 · **Merged PRs**: 208 · **Open PRs**: 125 · **Closed issues**: 764 · **Open issues**: 566 · **Commits**: 10124
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 15 | 111 | 120 | 142 | 145 | 730 |
-| last60d | 2026-08-13 | 34 | 131 | 120 | 254 | 310 | 1732 |
-| 90d | 2026-07-14 | 72 | 200 | 120 | 453 | 492 | 4321 |
-| last180d | 2026-04-15 | 100 | 208 | 120 | 727 | 549 | 7673 |
-| 360d | 2025-10-17 | 100 | 208 | 120 | 764 | 561 | 11775 |
-| last720d | 2024-10-22 | 100 | 208 | 120 | 764 | 561 | 10122 |
+| 30d | 2026-09-13 | 15 | 107 | 125 | 140 | 144 | 732 |
+| last60d | 2026-08-14 | 34 | 129 | 125 | 245 | 307 | 1734 |
+| 90d | 2026-07-15 | 71 | 200 | 125 | 453 | 495 | 4323 |
+| last180d | 2026-04-16 | 100 | 208 | 125 | 727 | 554 | 7675 |
+| 360d | 2025-10-18 | 100 | 208 | 125 | 764 | 566 | 11777 |
+| last720d | 2024-10-23 | 100 | 208 | 125 | 764 | 566 | 10124 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for jcode lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:48:27Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:48:38Z._
