@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 41480786,
       "digest": "sha256:beede4123271a27fc807c66ab1031b43802539b5797806bca6c1f01aa3156533",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-10-12T00:43:31Z",
       "updated_at": "2026-10-12T00:43:33Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-freebsd-x86_64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 47325657,
       "digest": "sha256:322db18677856daedab9a4293722ed234d81740aa367c07d3537b83706311f44",
-      "download_count": 31,
+      "download_count": 144,
       "created_at": "2026-10-12T00:43:33Z",
       "updated_at": "2026-10-12T00:43:35Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-linux-aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 44166184,
       "digest": "sha256:c6c903de5e82101f024962204432f1a2c8a5bbd872f3e52faf9f276f7fa4cf8c",
-      "download_count": 316,
+      "download_count": 965,
       "created_at": "2026-10-12T00:43:31Z",
       "updated_at": "2026-10-12T00:43:33Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-linux-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 45965019,
       "digest": "sha256:14d7f4f4c942b785bb3ac158d813392fff0ea5e68c7f8b871c466b8411234b90",
-      "download_count": 291,
+      "download_count": 852,
       "created_at": "2026-10-12T00:43:27Z",
       "updated_at": "2026-10-12T00:43:31Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-macos-aarch64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 50263807,
       "digest": "sha256:f4b1d05df024feeb016ca2bab80fa8584183aacfe5e8cbfacb8f92296bf7e038",
-      "download_count": 14,
+      "download_count": 61,
       "created_at": "2026-10-12T00:43:31Z",
       "updated_at": "2026-10-12T00:43:33Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-macos-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 89372672,
       "digest": "sha256:2f8b66eea2f0589d9775c2578ecc023e3612ae9e87e3286913a3e98b404dc0d6",
-      "download_count": 4,
+      "download_count": 16,
       "created_at": "2026-10-12T00:43:27Z",
       "updated_at": "2026-10-12T00:43:33Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-windows-aarch64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 32848641,
       "digest": "sha256:9bd9b33d3217fb71fcd4783261f64a4ca1671d4ee345d5aaf993991ffc430604",
-      "download_count": 2,
+      "download_count": 7,
       "created_at": "2026-10-12T00:43:27Z",
       "updated_at": "2026-10-12T00:43:30Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-windows-aarch64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 118278144,
       "digest": "sha256:fbcf6ecf4f66d923844217c912529f239ee90abfbc8ca198eab46fbde37da9ce",
-      "download_count": 508,
+      "download_count": 1803,
       "created_at": "2026-10-12T00:43:27Z",
       "updated_at": "2026-10-12T00:43:33Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-windows-x86_64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 38858920,
       "digest": "sha256:246a18a788a01f9f97930d5bef2a81f468dcdc43aadc89a97745a22455971ca1",
-      "download_count": 23,
+      "download_count": 76,
       "created_at": "2026-10-12T00:43:27Z",
       "updated_at": "2026-10-12T00:43:30Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/jcode-windows-x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 836,
       "digest": "sha256:4321e4323a2cfdb7fab561a2ae48600789da64da9874dce599d2a0f663740cc9",
-      "download_count": 620,
+      "download_count": 1937,
       "created_at": "2026-10-12T00:43:37Z",
       "updated_at": "2026-10-12T00:43:37Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.95.0/SHA256SUMS"
@@ -399,5 +399,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/1jehuang/jcode/tarball/v0.95.0",
   "zipball_url": "https://api.github.com/repos/1jehuang/jcode/zipball/v0.95.0",
-  "body": "### Highlights\n\n- OpenCode Go models, including grok-4.7 and gpt-6-luna, now route over the Responses API\n- Hooks expose turn-end token usage, and turn_start/turn_end now fire for one-shot jcode run turns\n- /agents supports per-session worker model overrides\n\n### Improvements\n\n- /resume can open scoped to the current project when display.resume_project_scope is enabled\n- Swarm gains a stalled-worker watchdog, and headless run --socket sessions can join swarms\n- The macOS menu bar helper uses a stable signing identity, draws the streaming icon green, and can be turned off with [menubar] enabled = false\n- Inline images fit their reserved box and the info widget hugs its content\n- Command risk assessment now inspects commands inside $(...), backticks, and heredocs\n- SDK-launched private instances no longer auto-update mid-session and give shorter, more accurate connect errors\n\n### Fixes\n\n- Ctrl/Alt/Cmd shortcuts work on the Korean 2-Set input source\n- The terminal keyboard protocol and TUI modes are restored when jcode exits on a signal\n- Rate-limit and provider reconnect auto-resumes are bounded instead of retrying indefinitely\n- OpenAI streams recover faster from stalls and OAuth token refresh no longer hangs\n- Tool calls emitted as DSML/invoke markup text are recovered instead of lost\n- Kimi reasoning via OpenRouter no longer loses text from non-cumulative snapshots\n- Resumed sessions heal a stale credential route so swarm workers inherit the live one\n- Computer-use screenshots kept in transcripts are bounded in size\n- The browser tool reuses persistent sessions on macOS without opening repeated windows\n- Only one menu bar helper runs when jcode is started with an overridden HOME\n- Swarm member attribution and restart notices are correct\n\n**Full changelog**: https://github.com/1jehuang/jcode/compare/v0.94.0...v0.95.0\n\n<!-- jcode-platform-availability:start -->\n## Platform availability\n\n- Linux x86_64: available\n- Linux aarch64: available\n- macOS Apple Silicon: available\n- macOS Intel: available\n- Windows x86_64: available\n- Windows ARM64: available\n- FreeBSD x86_64: available\n<!-- jcode-platform-availability:end -->\n\n<!-- jcode-discord-announced:v0.95.0 -->\n"
+  "body": "### Highlights\n\n- OpenCode Go models, including grok-4.7 and gpt-6-luna, now route over the Responses API\n- Hooks expose turn-end token usage, and turn_start/turn_end now fire for one-shot jcode run turns\n- /agents supports per-session worker model overrides\n\n### Improvements\n\n- /resume can open scoped to the current project when display.resume_project_scope is enabled\n- Swarm gains a stalled-worker watchdog, and headless run --socket sessions can join swarms\n- The macOS menu bar helper uses a stable signing identity, draws the streaming icon green, and can be turned off with [menubar] enabled = false\n- Inline images fit their reserved box and the info widget hugs its content\n- Command risk assessment now inspects commands inside $(...), backticks, and heredocs\n- SDK-launched private instances no longer auto-update mid-session and give shorter, more accurate connect errors\n\n### Fixes\n\n- Ctrl/Alt/Cmd shortcuts work on the Korean 2-Set input source\n- The terminal keyboard protocol and TUI modes are restored when jcode exits on a signal\n- Rate-limit and provider reconnect auto-resumes are bounded instead of retrying indefinitely\n- OpenAI streams recover faster from stalls and OAuth token refresh no longer hangs\n- Tool calls emitted as DSML/invoke markup text are recovered instead of lost\n- Kimi reasoning via OpenRouter no longer loses text from non-cumulative snapshots\n- Resumed sessions heal a stale credential route so swarm workers inherit the live one\n- Computer-use screenshots kept in transcripts are bounded in size\n- The browser tool reuses persistent sessions on macOS without opening repeated windows\n- Only one menu bar helper runs when jcode is started with an overridden HOME\n- Swarm member attribution and restart notices are correct\n\n**Full changelog**: https://github.com/1jehuang/jcode/compare/v0.94.0...v0.95.0\n\n<!-- jcode-platform-availability:start -->\n## Platform availability\n\n- Linux x86_64: available\n- Linux aarch64: available\n- macOS Apple Silicon: available\n- macOS Intel: available\n- Windows x86_64: available\n- Windows ARM64: available\n- FreeBSD x86_64: available\n<!-- jcode-platform-availability:end -->\n\n<!-- jcode-discord-announced:v0.95.0 -->\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/1jehuang/jcode/releases/410003033/reactions",
+    "total_count": 3,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 3,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
