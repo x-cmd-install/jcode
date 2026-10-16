@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 54836705,
       "digest": "sha256:571917f4029b2f72c4045423871c40f30f93064f9938eb9f1910ea8f14797100",
-      "download_count": 52,
+      "download_count": 211,
       "created_at": "2026-10-15T00:11:12Z",
       "updated_at": "2026-10-15T00:11:13Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-linux-aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 54706486,
       "digest": "sha256:449a8ed50aa9ac75e6afe9b8e916814172ff7cc63913c7ae1f9abd5b1bc5323c",
-      "download_count": 345,
+      "download_count": 1302,
       "created_at": "2026-10-15T00:11:10Z",
       "updated_at": "2026-10-15T00:11:13Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-linux-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 49392041,
       "digest": "sha256:8c818e574576706118e74834555c39fc0cd5966dcc95c95faada84f90de932fc",
-      "download_count": 245,
+      "download_count": 1600,
       "created_at": "2026-10-15T00:11:06Z",
       "updated_at": "2026-10-15T00:11:09Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-macos-aarch64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 53626925,
       "digest": "sha256:45a4edfbecdd9eb4f0cd59574391dfabf39ee40ebb596b1b5ca21e4d8fc2ea0d",
-      "download_count": 12,
+      "download_count": 45,
       "created_at": "2026-10-15T00:11:09Z",
       "updated_at": "2026-10-15T00:11:11Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-macos-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 99811840,
       "digest": "sha256:24f3fe9ae30027ed8c6e9bf13ec7d50c60985f585aeb7b3d73c122383bff01e0",
-      "download_count": 6,
+      "download_count": 20,
       "created_at": "2026-10-15T00:11:06Z",
       "updated_at": "2026-10-15T00:11:11Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-windows-aarch64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 38816735,
       "digest": "sha256:ff05efcfac86dad87259811b37c4ee29207a25be591e33c1189c0c4527e02784",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-15T00:11:06Z",
       "updated_at": "2026-10-15T00:11:10Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-windows-aarch64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 130578432,
       "digest": "sha256:9f586dd57303103a9c859816ef0c10fcd1c9d8246a07382b0ec2d90969743dfd",
-      "download_count": 588,
+      "download_count": 1829,
       "created_at": "2026-10-15T00:11:07Z",
       "updated_at": "2026-10-15T00:11:13Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-windows-x86_64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 45007526,
       "digest": "sha256:f024592242dc0be677ea7d18f23cb168fb81a881ee5a7da345d6c0725107d451",
-      "download_count": 24,
+      "download_count": 79,
       "created_at": "2026-10-15T00:11:06Z",
       "updated_at": "2026-10-15T00:11:10Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-windows-x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 526,
       "digest": "sha256:b23033dcae07f3efa3228bef375b536ab74647b3311852fa01999c3bdc397256",
-      "download_count": 13,
+      "download_count": 19,
       "created_at": "2026-10-15T00:11:15Z",
       "updated_at": "2026-10-15T00:11:15Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/release-provenance.json"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 926,
       "digest": "sha256:b9063cb270b03e3326d0a119b74f0d452e1eb0a56dfc6bc0b23c5c49f4d60abc",
-      "download_count": 543,
+      "download_count": 2278,
       "created_at": "2026-10-15T00:11:15Z",
       "updated_at": "2026-10-15T00:11:15Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/SHA256SUMS"
@@ -435,5 +435,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/1jehuang/jcode/tarball/v0.98.1",
   "zipball_url": "https://api.github.com/repos/1jehuang/jcode/zipball/v0.98.1",
-  "body": "**Faster idle sessions and richer responses**\n\n### Highlights\n\n- Reduce idle CPU and disk reads in repositories with many untracked files\n- Share model catalog processing across equivalent clients while keeping usage and account state fresh\n- Allow Desktop-capable clients to receive Markdown responses through the new user_response tool\n\n### Improvements\n\n- Show compact context usage before and after compaction\n- Open the resume picker immediately while session scanning continues in the background\n- Disable automatic memory recall while retaining explicit memory search\n- Display large recorded token and cost summaries compactly\n\n### Fixes\n\n- Recover browser handoffs from runtime provider failures using direct browser actions\n- Restore Windows companion connections over named pipes\n- Expose global user-session connection presence to SDK clients\n- Keep worker emoji placement consistent in the swarm status strip\n\n**Full changelog**: https://github.com/1jehuang/jcode/compare/v0.97.0...v0.98.1\n\n<!-- jcode-platform-availability:start -->\n## Platform availability\n\n- Linux x86_64: available\n- Linux aarch64: available\n- macOS Apple Silicon: available\n- macOS Intel: available\n- Windows x86_64: available\n- Windows ARM64: available\n- FreeBSD x86_64: available\n<!-- jcode-platform-availability:end -->\n\n<!-- jcode-discord-announced:v0.98.1 -->\n\n\n## Windows signature status\n\nWindows x86_64 and ARM64 executables are **unsigned**. Azure Artifact Signing is not configured and the repository's existing `WINDOWS_SIGNING_REQUIRED=false` override allowed unsigned publication. Windows may show publisher or SmartScreen warnings. SHA-256 checksums are provided for download integrity.\n"
+  "body": "**Faster idle sessions and richer responses**\n\n### Highlights\n\n- Reduce idle CPU and disk reads in repositories with many untracked files\n- Share model catalog processing across equivalent clients while keeping usage and account state fresh\n- Allow Desktop-capable clients to receive Markdown responses through the new user_response tool\n\n### Improvements\n\n- Show compact context usage before and after compaction\n- Open the resume picker immediately while session scanning continues in the background\n- Disable automatic memory recall while retaining explicit memory search\n- Display large recorded token and cost summaries compactly\n\n### Fixes\n\n- Recover browser handoffs from runtime provider failures using direct browser actions\n- Restore Windows companion connections over named pipes\n- Expose global user-session connection presence to SDK clients\n- Keep worker emoji placement consistent in the swarm status strip\n\n**Full changelog**: https://github.com/1jehuang/jcode/compare/v0.97.0...v0.98.1\n\n<!-- jcode-platform-availability:start -->\n## Platform availability\n\n- Linux x86_64: available\n- Linux aarch64: available\n- macOS Apple Silicon: available\n- macOS Intel: available\n- Windows x86_64: available\n- Windows ARM64: available\n- FreeBSD x86_64: available\n<!-- jcode-platform-availability:end -->\n\n<!-- jcode-discord-announced:v0.98.1 -->\n\n\n## Windows signature status\n\nWindows x86_64 and ARM64 executables are **unsigned**. Azure Artifact Signing is not configured and the repository's existing `WINDOWS_SIGNING_REQUIRED=false` override allowed unsigned publication. Windows may show publisher or SmartScreen warnings. SHA-256 checksums are provided for download integrity.\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/1jehuang/jcode/releases/413240485/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
