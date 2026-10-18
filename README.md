@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-High performance coding agent harness written in rust
+High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 
 [![x-cmd/install — jcode Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jcode.svg)](https://x-cmd.com/install/jcode)
 
@@ -14,15 +14,15 @@ x install jcode
 
 ## Code insight
 
-Total: **792,648** lines of code across **1942** files in the top 5 languages.
+Total: **802,510** lines of code across **1961** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 705,881 | 25,191 | 61,280 | 1551 |
-| Python | 35,367 | 1,519 | 5,001 | 158 |
+| Rust | 714,717 | 25,162 | 61,484 | 1568 |
+| Python | 35,729 | 1,528 | 5,043 | 159 |
 | Json | 17,631 | 0 | 0 | 131 |
 | Sh | 8,999 | 1,318 | 1,193 | 77 |
-| JavaScript | 6,460 | 550 | 562 | 25 |
+| JavaScript | 6,915 | 553 | 586 | 26 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **792,648** lines of code across **1942** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.98.1` (2026-10-15)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-18
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 20,949 · **Forks**: 2,426 · **Open issues**: 1,359 · **Contributors**: 42
+- **Stars**: 20,981 · **Forks**: 2,430 · **Open issues**: 1,362 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 212 · **Open PRs**: 141 · **Closed issues**: 795 · **Open issues**: 564 · **Commits**: 10311
+- **Releases**: 194 · **Merged PRs**: 212 · **Open PRs**: 146 · **Closed issues**: 802 · **Open issues**: 560 · **Commits**: 10459
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 18 | 101 | 131 | 136 | 155 | 917 |
-| last60d | 2026-08-18 | 34 | 131 | 141 | 244 | 291 | 1919 |
-| 90d | 2026-07-19 | 70 | 199 | 141 | 454 | 496 | 4508 |
-| last180d | 2026-04-20 | 100 | 211 | 141 | 758 | 552 | 7860 |
-| 360d | 2025-10-22 | 100 | 212 | 141 | 795 | 564 | 11962 |
-| last720d | 2024-10-27 | 100 | 212 | 141 | 795 | 564 | 10311 |
+| 30d | 2026-09-18 | 18 | 101 | 136 | 140 | 144 | 788 |
+| last60d | 2026-08-19 | 33 | 131 | 146 | 245 | 281 | 1796 |
+| 90d | 2026-07-20 | 68 | 196 | 146 | 456 | 488 | 4276 |
+| last180d | 2026-04-21 | 100 | 211 | 146 | 765 | 548 | 7724 |
+| 360d | 2025-10-23 | 100 | 212 | 146 | 802 | 560 | 12110 |
+| last720d | 2024-10-28 | 100 | 212 | 146 | 802 | 560 | 10459 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for jcode lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:06:00Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:13:40Z._
