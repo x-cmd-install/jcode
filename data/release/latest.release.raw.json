@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 49247435,
       "digest": "sha256:db431a5120b23b7e37e851f840a4d2adcc994b5b63010abf98902eba493245ab",
-      "download_count": 9,
+      "download_count": 21,
       "created_at": "2026-10-15T00:11:10Z",
       "updated_at": "2026-10-15T00:11:13Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-freebsd-x86_64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 54836705,
       "digest": "sha256:571917f4029b2f72c4045423871c40f30f93064f9938eb9f1910ea8f14797100",
-      "download_count": 274,
+      "download_count": 332,
       "created_at": "2026-10-15T00:11:12Z",
       "updated_at": "2026-10-15T00:11:13Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-linux-aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 54706486,
       "digest": "sha256:449a8ed50aa9ac75e6afe9b8e916814172ff7cc63913c7ae1f9abd5b1bc5323c",
-      "download_count": 1810,
+      "download_count": 2248,
       "created_at": "2026-10-15T00:11:10Z",
       "updated_at": "2026-10-15T00:11:13Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-linux-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 49392041,
       "digest": "sha256:8c818e574576706118e74834555c39fc0cd5966dcc95c95faada84f90de932fc",
-      "download_count": 2333,
+      "download_count": 2478,
       "created_at": "2026-10-15T00:11:06Z",
       "updated_at": "2026-10-15T00:11:09Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-macos-aarch64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 53626925,
       "digest": "sha256:45a4edfbecdd9eb4f0cd59574391dfabf39ee40ebb596b1b5ca21e4d8fc2ea0d",
-      "download_count": 70,
+      "download_count": 106,
       "created_at": "2026-10-15T00:11:09Z",
       "updated_at": "2026-10-15T00:11:11Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-macos-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 99811840,
       "digest": "sha256:24f3fe9ae30027ed8c6e9bf13ec7d50c60985f585aeb7b3d73c122383bff01e0",
-      "download_count": 39,
+      "download_count": 53,
       "created_at": "2026-10-15T00:11:06Z",
       "updated_at": "2026-10-15T00:11:11Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-windows-aarch64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 38816735,
       "digest": "sha256:ff05efcfac86dad87259811b37c4ee29207a25be591e33c1189c0c4527e02784",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-10-15T00:11:06Z",
       "updated_at": "2026-10-15T00:11:10Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-windows-aarch64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 130578432,
       "digest": "sha256:9f586dd57303103a9c859816ef0c10fcd1c9d8246a07382b0ec2d90969743dfd",
-      "download_count": 2556,
+      "download_count": 3492,
       "created_at": "2026-10-15T00:11:07Z",
       "updated_at": "2026-10-15T00:11:13Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-windows-x86_64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 45007526,
       "digest": "sha256:f024592242dc0be677ea7d18f23cb168fb81a881ee5a7da345d6c0725107d451",
-      "download_count": 117,
+      "download_count": 142,
       "created_at": "2026-10-15T00:11:06Z",
       "updated_at": "2026-10-15T00:11:10Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/jcode-windows-x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 526,
       "digest": "sha256:b23033dcae07f3efa3228bef375b536ab74647b3311852fa01999c3bdc397256",
-      "download_count": 28,
+      "download_count": 40,
       "created_at": "2026-10-15T00:11:15Z",
       "updated_at": "2026-10-15T00:11:15Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/release-provenance.json"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 926,
       "digest": "sha256:b9063cb270b03e3326d0a119b74f0d452e1eb0a56dfc6bc0b23c5c49f4d60abc",
-      "download_count": 3199,
+      "download_count": 4004,
       "created_at": "2026-10-15T00:11:15Z",
       "updated_at": "2026-10-15T00:11:15Z",
       "browser_download_url": "https://github.com/1jehuang/jcode/releases/download/v0.98.1/SHA256SUMS"
