@@ -1,3 +1,17 @@
+- repo: chocolatey
+  binname: jcode
+  visiblename: jcode
+  version: 0.99.1
+  origversion: null
+  status: newest
+  summary: High-performance coding agent harness written in Rust
+- repo: homebrew
+  srcname: jcode
+  visiblename: jcode
+  version: 0.99.1
+  origversion: null
+  status: newest
+  summary: AI coding agent harness for the terminal
 - repo: aur
   srcname: jcode
   binname: jcode
@@ -22,20 +36,6 @@
     - 1jehuang@aur
   licenses:
     - MIT
-- repo: chocolatey
-  binname: jcode
-  visiblename: jcode
-  version: 0.98.1
-  origversion: null
-  status: outdated
-  summary: High-performance coding agent harness written in Rust
-- repo: homebrew
-  srcname: jcode
-  visiblename: jcode
-  version: 0.99.1
-  origversion: null
-  status: newest
-  summary: AI coding agent harness for the terminal
 - repo: scoop
   subrepo: main
   binname: jcode
