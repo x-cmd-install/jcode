@@ -14,15 +14,15 @@ x install jcode
 
 ## Code insight
 
-Total: **882,807** lines of code across **2246** files in the top 5 languages.
+Total: **888,823** lines of code across **2264** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 789,792 | 26,897 | 64,704 | 1818 |
-| Python | 39,155 | 1,590 | 5,421 | 177 |
+| Rust | 795,205 | 27,001 | 64,938 | 1830 |
+| Python | 39,670 | 1,607 | 5,481 | 181 |
 | Json | 17,922 | 0 | 0 | 136 |
 | Sh | 10,272 | 1,431 | 1,195 | 88 |
-| JavaScript | 7,059 | 577 | 599 | 27 |
+| JavaScript | 7,126 | 579 | 604 | 29 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **882,807** lines of code across **2246** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.0-preview.30` (2026-10-22)
-- **Last commit**: 2026-11-01
+- **Latest**: `v1.0.0-preview.48` (2026-10-22)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 21,377 · **Forks**: 2,496 · **Open issues**: 1,429 · **Contributors**: 49
+- **Stars**: 21,408 · **Forks**: 2,498 · **Open issues**: 1,438 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 198 · **Merged PRs**: 220 · **Open PRs**: 203 · **Closed issues**: 841 · **Open issues**: 588 · **Commits**: 11240
+- **Releases**: 199 · **Merged PRs**: 220 · **Open PRs**: 216 · **Closed issues**: 841 · **Open issues**: 597 · **Commits**: 11296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 12 | 29 | 112 | 95 | 88 | 1207 |
-| last60d | 2026-09-02 | 28 | 127 | 203 | 224 | 231 | 2005 |
-| 90d | 2026-08-03 | 54 | 164 | 203 | 395 | 426 | 3426 |
-| last180d | 2026-05-05 | 100 | 218 | 203 | 767 | 564 | 7961 |
-| 360d | 2025-11-06 | 100 | 220 | 203 | 841 | 588 | 12908 |
-| last720d | 2024-11-11 | 100 | 220 | 203 | 841 | 588 | 11240 |
+| 30d | 2026-10-03 | 13 | 21 | 121 | 81 | 93 | 1263 |
+| last60d | 2026-09-03 | 29 | 127 | 216 | 221 | 238 | 2061 |
+| 90d | 2026-08-04 | 52 | 156 | 216 | 386 | 423 | 3482 |
+| last180d | 2026-05-06 | 100 | 218 | 216 | 763 | 570 | 8017 |
+| 360d | 2025-11-07 | 100 | 220 | 216 | 841 | 597 | 12964 |
+| last720d | 2024-11-12 | 100 | 220 | 216 | 841 | 597 | 11296 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for jcode lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:59:48Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:58:47Z._
