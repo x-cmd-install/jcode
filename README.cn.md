@@ -14,14 +14,14 @@ x install jcode
 
 ## 代码洞察
 
-合计: **980,956** 行代码（覆盖前 5 种语言、共 **2533** 个文件）。
+合计: **991,598** 行代码（覆盖前 5 种语言、共 **2697** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 891,109 | 29,366 | 71,318 | 2107 |
-| Python | 37,994 | 1,223 | 4,978 | 169 |
-| Json | 17,878 | 0 | 0 | 133 |
-| Sh | 10,372 | 1,441 | 1,199 | 89 |
+| Rust | 901,474 | 29,590 | 71,827 | 2271 |
+| Python | 38,055 | 1,224 | 4,976 | 167 |
+| Json | 18,067 | 0 | 0 | 135 |
+| Sh | 10,399 | 1,447 | 1,201 | 89 |
 | JavaScript | 8,418 | 671 | 673 | 35 |
 
 ## 源代码
@@ -32,52 +32,44 @@ x install jcode
 
 ## 发布
 
-- **最新版本**: `v1.0.0-preview.424` (2026-10-22)
-- **最近提交**: 2026-11-16
+- **最新版本**: `v1.0.0` (2026-11-17)
+- **最近提交**: 2026-11-17
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 21,807 · **Fork**: 2,542 · **开放 issue**: 1,514 · **贡献者**: 54
+- **Star**: 21,835 · **Fork**: 2,545 · **开放 issue**: 1,520 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 206 · **已合并 PR**: 221 · **开放 PR**: 228 · **已关闭 issue**: 877 · **开放 issue**: 637 · **提交数**: 12024
+- **发布数**: 207 · **已合并 PR**: 221 · **开放 PR**: 231 · **已关闭 issue**: 884 · **开放 issue**: 636 · **提交数**: 12135
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 12 | 6 | 117 | 64 | 93 | 1235 |
-| last60d | 2026-09-17 | 30 | 110 | 218 | 215 | 231 | 2421 |
-| 90d | 2026-08-18 | 46 | 140 | 228 | 325 | 365 | 3490 |
-| last180d | 2026-05-20 | 100 | 217 | 228 | 745 | 604 | 8367 |
-| 360d | 2025-11-21 | 100 | 221 | 228 | 877 | 637 | 13687 |
-| last720d | 2024-11-26 | 100 | 221 | 228 | 877 | 637 | 12024 |
+| 30d | 2026-10-18 | 13 | 4 | 105 | 67 | 91 | 1342 |
+| last60d | 2026-09-18 | 31 | 110 | 221 | 219 | 224 | 2528 |
+| 90d | 2026-08-19 | 46 | 140 | 231 | 326 | 358 | 3597 |
+| last180d | 2026-05-21 | 100 | 217 | 231 | 730 | 603 | 8474 |
+| 360d | 2025-11-22 | 100 | 221 | 231 | 884 | 636 | 13794 |
+| last720d | 2024-11-27 | 100 | 221 | 231 | 884 | 636 | 12135 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [jcode-freebsd-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-freebsd-x86_64.tar.gz) | 51.3 MiB | `native/linux/x64` |
-| [jcode-linux-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-linux-aarch64.tar.gz) | 53.9 MiB | `native/linux/arm64` |
-| [jcode-linux-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-linux-x86_64.tar.gz) | 53.6 MiB | `native/linux/x64` |
-| [jcode-macos-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-macos-aarch64.tar.gz) | 48.6 MiB | `native/darwin/arm64` |
-| [jcode-macos-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-macos-x86_64.tar.gz) | 52.7 MiB | `native/darwin/x64` |
-| [jcode-windows-aarch64.exe](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-windows-aarch64.exe) | 98.5 MiB | `native/win/arm64` |
-| [jcode-windows-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-windows-aarch64.tar.gz) | 38.2 MiB | `native/win/arm64` |
-| [jcode-windows-x86_64.exe](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-windows-x86_64.exe) | 128.4 MiB | `native/win/x64` |
-| [jcode-windows-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v0.99.1/jcode-windows-x86_64.tar.gz) | 44.2 MiB | `native/win/x64` |
-| [release-provenance.json](https://github.com/1jehuang/jcode/releases/download/v0.99.1/release-provenance.json) | 526 B | `other` |
-| [SHA256SUMS](https://github.com/1jehuang/jcode/releases/download/v0.99.1/SHA256SUMS) | 926 B | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/jcode) 上共有 **5** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.99.1` | ✅ latest |
+| [jcode-freebsd-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-freebsd-x86_64.tar.gz) | 57.6 MiB | `native/linux/x64` |
+| [jcode-linux-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-linux-aarch64.tar.gz) | 59.9 MiB | `native/linux/arm64` |
+| [jcode-linux-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-linux-x86_64.tar.gz) | 59.3 MiB | `native/linux/x64` |
+| [jcode-macos-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-macos-aarch64.tar.gz) | 54.3 MiB | `native/darwin/arm64` |
+| [jcode-macos-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-macos-x86_64.tar.gz) | 58.9 MiB | `native/darwin/x64` |
+| [jcode-windows-aarch64.exe](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-windows-aarch64.exe) | 112.0 MiB | `native/win/arm64` |
+| [jcode-windows-aarch64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-windows-aarch64.tar.gz) | 43.5 MiB | `native/win/arm64` |
+| [jcode-windows-x86_64.exe](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-windows-x86_64.exe) | 144.8 MiB | `native/win/x64` |
+| [jcode-windows-x86_64.tar.gz](https://github.com/1jehuang/jcode/releases/download/v1.0.0/jcode-windows-x86_64.tar.gz) | 49.8 MiB | `native/win/x64` |
+| [release-provenance.json](https://github.com/1jehuang/jcode/releases/download/v1.0.0/release-provenance.json) | 525 B | `other` |
+| [SHA256SUMS](https://github.com/1jehuang/jcode/releases/download/v1.0.0/SHA256SUMS) | 926 B | `other` |
 
 ## 改进这些数据
 
@@ -88,4 +80,4 @@ jcode 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:43:51Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:54:26Z._
