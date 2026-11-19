@@ -1,17 +1,3 @@
-- repo: chocolatey
-  binname: jcode
-  visiblename: jcode
-  version: 0.99.1
-  origversion: null
-  status: newest
-  summary: High-performance coding agent harness written in Rust
-- repo: homebrew
-  srcname: jcode
-  visiblename: jcode
-  version: 0.99.1
-  origversion: null
-  status: newest
-  summary: AI coding agent harness for the terminal
 - repo: aur
   srcname: jcode
   binname: jcode
@@ -28,20 +14,34 @@
   srcname: jcode-bin
   binname: jcode-bin
   visiblename: jcode-bin
-  version: 0.99.1
-  origversion: 0.99.1-1
-  status: newest
+  version: 1.0.1
+  origversion: 1.0.1-1
+  status: outdated
   summary: AI coding agent powered by Claude and ChatGPT
   maintainers:
     - 1jehuang@aur
   licenses:
     - MIT
-- repo: scoop
-  subrepo: main
+- repo: chocolatey
   binname: jcode
   visiblename: jcode
   version: 0.99.1
   origversion: null
+  status: outdated
+  summary: High-performance coding agent harness written in Rust
+- repo: homebrew
+  srcname: jcode
+  visiblename: jcode
+  version: 1.0.2
+  origversion: null
   status: newest
+  summary: AI coding agent harness for the terminal
+- repo: scoop
+  subrepo: main
+  binname: jcode
+  visiblename: jcode
+  version: 1.0.1
+  origversion: null
+  status: outdated
   licenses:
     - MIT
