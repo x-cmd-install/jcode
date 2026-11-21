@@ -33,27 +33,27 @@ Total: **1,011,370** lines of code across **2808** files in the top 5 languages.
 ## Release
 
 - **Latest**: `selfdev-linux-18b502ca3c3f3fd10bb21866191d396758e0293c` (2026-11-18)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 21,936 · **Forks**: 2,559 · **Open issues**: 1,550 · **Contributors**: 54
+- **Stars**: 21,959 · **Forks**: 2,567 · **Open issues**: 1,557 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 221 · **Open PRs**: 251 · **Closed issues**: 888 · **Open issues**: 662 · **Commits**: 12356
+- **Releases**: 209 · **Merged PRs**: 221 · **Open PRs**: 260 · **Closed issues**: 888 · **Open issues**: 669 · **Commits**: 12358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 14 | 2 | 118 | 61 | 104 | 1562 |
-| last60d | 2026-09-21 | 31 | 98 | 228 | 203 | 239 | 2748 |
-| 90d | 2026-08-22 | 46 | 138 | 251 | 322 | 374 | 3817 |
-| last180d | 2026-05-24 | 100 | 217 | 251 | 730 | 628 | 8694 |
-| 360d | 2025-11-25 | 100 | 221 | 251 | 888 | 662 | 14014 |
-| last720d | 2024-11-30 | 100 | 221 | 251 | 888 | 662 | 12356 |
+| 30d | 2026-10-22 | 14 | 2 | 125 | 57 | 109 | 1564 |
+| last60d | 2026-09-22 | 31 | 87 | 236 | 193 | 237 | 2750 |
+| 90d | 2026-08-23 | 46 | 138 | 260 | 318 | 376 | 3819 |
+| last180d | 2026-05-25 | 100 | 217 | 260 | 729 | 634 | 8696 |
+| 360d | 2025-11-26 | 100 | 221 | 260 | 888 | 669 | 14016 |
+| last720d | 2024-12-01 | 100 | 221 | 260 | 888 | 669 | 12358 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for jcode lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:57:04Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:59:28Z._
