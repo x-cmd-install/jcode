@@ -14,9 +14,9 @@
   srcname: jcode-bin
   binname: jcode-bin
   visiblename: jcode-bin
-  version: 1.0.1
-  origversion: 1.0.1-1
-  status: outdated
+  version: 1.0.3
+  origversion: 1.0.3-1
+  status: newest
   summary: AI coding agent powered by Claude and ChatGPT
   maintainers:
     - 1jehuang@aur
@@ -32,7 +32,7 @@
 - repo: homebrew
   srcname: jcode
   visiblename: jcode
-  version: 1.0.2
+  version: 1.0.3
   origversion: null
   status: newest
   summary: AI coding agent harness for the terminal
@@ -40,8 +40,8 @@
   subrepo: main
   binname: jcode
   visiblename: jcode
-  version: 1.0.1
+  version: 1.0.3
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - MIT
