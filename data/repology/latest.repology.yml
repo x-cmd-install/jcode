@@ -25,9 +25,9 @@
 - repo: chocolatey
   binname: jcode
   visiblename: jcode
-  version: 0.99.1
+  version: 1.0.3
   origversion: null
-  status: outdated
+  status: newest
   summary: High-performance coding agent harness written in Rust
 - repo: homebrew
   srcname: jcode
