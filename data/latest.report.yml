@@ -2,30 +2,30 @@ about:
   description: "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows"
   license: MIT
   homepage: https://jcode.sh
-  head: d31f9cd
+  head: f04e8d7
   archived: false
-  latestVersion: "v1.1.2"
-  latestRelease: "v1.1.2"
+  latestVersion: "v1.1.7"
+  latestRelease: "v1.1.7"
   latestPrerelease: "selfdev-linux-a43cd3e1cc230e7776f8cc9b826cf519bd0de939"
-  collectedAt: 2026-11-27T10:05:09Z
+  collectedAt: 2026-11-28T08:30:16Z
 timeline:
   created: 2026-01-05
-  lastCommit: 2026-11-27
-  lastVersion: 2026-11-23
-  lastRelease: 2026-11-23
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
   lastPrerelease: 2026-11-22
 popularity:
-  star: 22085
+  star: 22116
   watcher: 109
-  fork: 2590
-  release: 222
+  fork: 2595
+  release: 227
   contributor: 53
-  pullRequest: 804
-  issue: 1603
+  pullRequest: 806
+  issue: 1605
 language:
-  Rust: 38730541
-  Python: 1985645
-  Shell: 514586
+  Rust: 38801329
+  Python: 2007966
+  Shell: 525454
   JavaScript: 413889
   TypeScript: 205648
   PowerShell: 107399
@@ -35,87 +35,87 @@ language:
   Nix: 1209
   HTML: 1031
   RenderScript: 1
-totalBytes: 41973351
+totalBytes: 42077328
 recent:
   last30d:
-    since: 2026-10-28
-    release: 26
+    since: 2026-10-29
+    release: 29
     mergedPR: 1
     openPR: 195
-    closedIssue: 48
-    openIssue: 138
-    commit: 1288
+    closedIssue: 46
+    openIssue: 139
+    commit: 1324
   last60d:
-    since: 2026-09-28
-    release: 41
-    mergedPR: 44
-    openPR: 287
-    closedIssue: 168
-    openIssue: 247
-    commit: 2641
+    since: 2026-09-29
+    release: 45
+    mergedPR: 40
+    openPR: 280
+    closedIssue: 164
+    openIssue: 233
+    commit: 2677
   last90d:
-    since: 2026-08-29
-    release: 55
+    since: 2026-08-30
+    release: 59
     mergedPR: 133
     openPR: 335
-    closedIssue: 294
-    openIssue: 394
-    commit: 3653
+    closedIssue: 291
+    openIssue: 383
+    commit: 3689
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 100
     mergedPR: 214
     openPR: 335
-    closedIssue: 716
-    openIssue: 672
-    commit: 8393
+    closedIssue: 712
+    openIssue: 673
+    commit: 8429
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
     mergedPR: 218
     openPR: 335
     closedIssue: 892
-    openIssue: 711
-    commit: 14136
+    openIssue: 713
+    commit: 14172
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
     mergedPR: 218
     openPR: 335
     closedIssue: 892
-    openIssue: 711
-    commit: 12478
+    openIssue: 713
+    commit: 12513
 total:
-  release: 222
+  release: 227
   mergedPR: 218
   openPR: 335
   closedIssue: 892
-  openIssue: 711
-  commit: 12478
+  openIssue: 713
+  commit: 12513
 ---
 path: /home/runner/.x-repo/github.com/1jehuang/jcode
-collectedAt: 2026-11-27T10:05:33Z
+collectedAt: 2026-11-28T08:30:38Z
 loc:
   Rust:
-    code: 931736
-    comments: 29995
-    blanks: 73101
+    code: 933400
+    comments: 30029
+    blanks: 73194
     files: 2379
   Python:
-    code: 40905
-    comments: 1285
-    blanks: 5291
-    files: 181
+    code: 41431
+    comments: 1288
+    blanks: 5335
+    files: 185
   Json:
     code: 18321
     comments: 0
     blanks: 0
     files: 144
   Sh:
-    code: 11164
-    comments: 1489
-    blanks: 1253
-    files: 94
+    code: 11466
+    comments: 1497
+    blanks: 1284
+    files: 96
   JavaScript:
     code: 8418
     comments: 671
@@ -173,20 +173,20 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 24542
-    blanks: 7248
+    comments: 24552
+    blanks: 7254
     files: 215
   Text:
     code: 0
-    comments: 9037
-    blanks: 15
+    comments: 9038
+    blanks: 17
     files: 16
 total:
-  code: 1029550
-  comments: 114138
-  blanks: 94806
-  files: 3249
+  code: 1032042
+  comments: 114218
+  blanks: 94982
+  files: 3255
 ---
 
 ---
-{"id":455191473,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQz8JRs4bIaux","tag_name":"v1.1.2","target_commitish":"4f874c9ea6b7c3e228045fa8269e4d84bec66a6b","name":"jcode v1.1.2 · Linux","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-23T09:03:45Z","updated_at":"2026-11-23T09:10:40Z","published_at":"2026-11-23T09:10:12Z","assets":[{"id":782271442,"node_id":"RA_kwDOQz8JRs4uoIPS","name":"jcode-linux-x86_64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":60354857,"digest":"sha256:74ae84a18bb959c7f360ec0a1fecf3eae089ff3f2d92d400062eab4ec32efc56","download_count":2409,"created_at":"2026-11-23T09:10:07Z","updated_at":"2026-11-23T09:10:10Z"},{"id":782271443,"node_id":"RA_kwDOQz8JRs4uoIPT","name":"SHA256SUMS","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":92,"digest":"sha256:fb5eff142ad2c5f7bf15ed616c6b4b0e74686e1f0150a251a755953c7e85abe4","download_count":1649,"created_at":"2026-11-23T09:10:07Z","updated_at":"2026-11-23T09:10:08Z"}],"body":"Portable Linux x86_64 self-dev build of 4f874c9ea6b7c3e228045fa8269e4d84bec66a6b.\n\n## Highlights\n\n- Show \\`streaming…\\` / \\`finalizing…\\` activity labels in the live status line, highlight quiet/stalled streams in yellow, and hide stale \\`opening websocket\\` details once streaming starts.\n- Omit redundant effort suffix on effort-named Gemini models.\n- Top \\`/login\\` starter providers and contextual subscription nudges with one-step browser login on \\`/subscribe\\` and \\`/cloud\\`.\n- Normalize \\`jarvis\\_user\\` role on soft-interrupt transcripts and suppress always-on Jarvis capture during companion push-to-talk.\n\n## Bundled changes\n\n[View all 3 commits](https://github.com/1jehuang/jcode/compare/0672d6453766031e5ba9960b7e0d731bba14e911...4f874c9ea6b7c3e228045fa8269e4d84bec66a6b)\n- fix(tui): show streaming/finalizing activity label and hide stale websocket detail\n- Publish Linux releases directly via hosted justrust instead of GitHub Actions\n- docs: update weekly stars chart\n\n<!-- jcode-discord-announced:v1.1.2 -->\n"}
+{"id":461373819,"author":{"login":"1jehuang","id":94247773,"node_id":"U_kgDOBZ4bXQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQz8JRs4bgAF7","tag_name":"v1.1.7","target_commitish":"f04e8d7f480be22baa703440551dc5b79b1bd184","name":"jcode v1.1.7 · Linux + macOS","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-28T07:07:30Z","updated_at":"2026-11-28T07:11:48Z","published_at":"2026-11-28T07:11:46Z","assets":[{"id":803625148,"node_id":"RA_kwDOQz8JRs4v5li8","name":"jcode-linux-x86_64.tar.gz","label":"","uploader":{"login":"1jehuang","id":94247773,"node_id":"U_kgDOBZ4bXQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":60427565,"digest":"sha256:a323ef6064a1197c2e677a62f6313214984a036e687af11d1ac0478b23e5b89a","download_count":112,"created_at":"2026-11-28T07:11:10Z","updated_at":"2026-11-28T07:11:42Z"},{"id":803625152,"node_id":"RA_kwDOQz8JRs4v5ljA","name":"SHA256SUMS","label":"","uploader":{"login":"1jehuang","id":94247773,"node_id":"U_kgDOBZ4bXQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":92,"digest":"sha256:410b175cffbdf5553302e80888e13479b1ae1ff1f636d9139f804c24ebf3fae2","download_count":103,"created_at":"2026-11-28T07:11:11Z","updated_at":"2026-11-28T07:11:11Z"}],"body":"Portable Linux x86_64 self-dev build of f04e8d7f480be22baa703440551dc5b79b1bd184.\n\n## Highlights\n\n- Fix todo completion 'finished Xs ago' timestamps freezing at 0s ago by refreshing visible completion ages in place and waking focused redraws at age boundaries.\n- Show last response age in the idle status line after 1 minute.\n- Keep auto-poking partially delivered goals after new completed todo work, and deliver reload-interrupted background task wakes.\n\n## Bundled changes\n\n[View all 1 commit](https://github.com/1jehuang/jcode/compare/4d60d63b6dcb3438592d6fc3d7c3b00ddfcdc24f...f04e8d7f480be22baa703440551dc5b79b1bd184)\n- fix(tui): live-update todo completion 'finished Xs ago' timestamp\n\n<!-- jcode-discord-announced:v1.1.7 -->\n"}
